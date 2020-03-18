@@ -1,0 +1,9 @@
+jupyter
+pandas
+plotly
+dash==1.8.0
+matplotlib
+beautifulsoup4
+requests
+more-itertools
+seaborn
